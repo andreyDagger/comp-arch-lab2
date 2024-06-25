@@ -1,0 +1,12 @@
+# Test log
+
+## More info in Github.Actions: [![statusbadge](../../actions/workflows/buildtest.yml/badge.svg?branch=main&event=pull_request)](../../actions/workflows/buildtest.yml)
+
+### Install dependencies           
+Done
+            
+### Compile complited (build log, can be empty):
+
+
+### Log:
+Processing           0 row<br/>Processing           1 row<br/>Processing           2 row<br/>Processing           3 row<br/>Processing           4 row<br/>Processing           5 row<br/>Processing           6 row<br/>Processing           7 row<br/>Processing           8 row<br/>Processing           9 row<br/>Processing          10 row<br/>Processing          11 row<br/>Processing          12 row<br/>Processing          13 row<br/>Processing          14 row<br/>Processing          15 row<br/>Processing          16 row<br/>Processing          17 row<br/>Processing          18 row<br/>Processing          19 row<br/>Processing          20 row<br/>Processing          21 row<br/>Processing          22 row<br/>Processing          23 row<br/>Processing          24 row<br/>Processing          25 row<br/>Processing          26 row<br/>Processing          27 row<br/>Processing          28 row<br/>Processing          29 row<br/>Processing          30 row<br/>Processing          31 row<br/>Processing          32 row<br/>Processing          33 row<br/>Processing          34 row<br/>Processing          35 row<br/>Processing          36 row<br/>Processing          37 row<br/>Processing          38 row<br/>Processing          39 row<br/>Processing          40 row<br/>Processing          41 row<br/>Processing          42 row<br/>Processing          43 row<br/>Processing          44 row<br/>Processing          45 row<br/>Processing          46 row<br/>Processing          47 row<br/>Processing          48 row<br/>Processing          49 row<br/>Processing          50 row<br/>Processing          51 row<br/>Processing          52 row<br/>Processing          53 row<br/>Processing          54 row<br/>Processing          55 row<br/>Processing          56 row<br/>Processing          57 row<br/>Processing          58 row<br/>Processing          59 row<br/>Processing          60 row<br/>Processing          61 row<br/>Processing          62 row<br/>Processing          63 row<br/>     213761      249600 0.856414     6242660
